@@ -1,0 +1,24 @@
+{
+  "name": "kartal-roronoa",
+  "version": "1.0.0",
+  "description": "Kartal TYS Kırmızı Işık Saha Uygulaması",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serkanmeral/kartal-roronoa.git"
+  },
+  "author": "Serkan MERAL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serkanmeral/kartal-roronoa/issues"
+  },
+  "homepage": "https://github.com/serkanmeral/kartal-roronoa#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10"
+  }
+}
